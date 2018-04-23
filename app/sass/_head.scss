@@ -1,8 +1,10 @@
 header{
   position: relative;
   background-position: center;
-  height:950px;
+  height:100vh;
   background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
 
 .menu-head{
   display: flex;
